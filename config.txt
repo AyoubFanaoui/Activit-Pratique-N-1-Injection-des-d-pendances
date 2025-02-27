@@ -1,0 +1,2 @@
+org.app.dao.DaoImpl
+org.app.metier.MetierImpl

@@ -11,9 +11,5 @@ public class presentationV1 {
         IMetier metier = new MetierImpl();
         metier.setDao(dao);
         System.out.println("Res : " + metier.calcular());
-
-
-
-
     }
 }
